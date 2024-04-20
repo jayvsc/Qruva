@@ -64,8 +64,8 @@ h3 {
 .nonesrc_hello {
   height: calc(8 * var(--m));
   width: calc(12 * var(--m));
-  background: linear-gradient(80deg, #1EAEFE, #0373FF);
-  color: black;
+  background: transparent;
+  color: rgb(255, 255, 255);
   border-radius: calc(1 * var(--m));
 
   display: flex;
@@ -204,3 +204,34 @@ a {
     width: 100%;
   }
 }
+
+.homb1 {
+	display: grid;
+	place-items: center;
+}
+
+.homb1, .homespan {
+	background: linear-gradient(hsl(0 0% 98%) 30%, hsl(0 0% 30%));
+	color: transparent;
+	background-clip: text;
+}
+
+.homb1 span:first-of-type {
+	font-size: 1rem;
+	text-transform: uppercase;
+}
+.homb1 span:last-of-type {
+	font-size: clamp(3rem, 6vw + 1rem, 12rem);
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <h1>Hi there</h1>
+  <h1>Hello there, hooman.</h1>
   <a href="https://youtube.com/@jayzrc">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>

@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Prompt user for password
     const password = prompt('Enter password to access the gallery:');
         
-    const passwords = ['00176', '14653'];
+    const passwords = ['00176', '83555', '47635', '04655'];
 
     if (!passwords.includes(password)) {
         alert('Incorrect password. Access denied.');

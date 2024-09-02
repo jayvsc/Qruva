@@ -1,1 +1,1 @@
-[<kbd> <br> Donate <br> </kbd>][[Link](https://buy.stripe.com/bIYaFx6BO1Ew5Us6op)]
+[<kbd> <br> Donate <br> </kbd>][https://buy.stripe.com/bIYaFx6BO1Ew5Us6op]
